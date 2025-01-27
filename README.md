@@ -51,7 +51,7 @@ console.table([accountId, email, password, city, variable]);
 
 # Chapter 3
 Conversion Operation
-```
+```javascript
 // Valid number
 let string1="100";
 number1=Number(string1);
