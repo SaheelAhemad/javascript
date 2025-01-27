@@ -1,5 +1,11 @@
 {
     "configurations": [
         
+        {
+            "name": "conversion operation.js (1)",
+            "type": "node",
+            "workingDir": "$PROJECT_DIR$",
+            "file": "$PROJECT_DIR$/conversion opearation/conversion operation.js"
+        }
     ]
 }
